@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mayank Kumar.
-- 👀 I’m a Developer.
+- 👀 I’m a Web Developer.
 - 🌱 I’m currently learning C++ Programming along with development & graphic design.
-- 💞️ I’m looking to collaborate on theme development.
+- 💞️ I’m looking to collaborate on theme & plugin development.
 - 📫 Reach me in New Delhi.
 
 <!---
