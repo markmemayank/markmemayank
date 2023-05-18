@@ -18,3 +18,7 @@ Hey, I’m Mayank. Learner by passion, a Web Developer & Content Writer by profe
 <p>I’m currently learning C++ Programming along with development & graphic design.</p>
 <p>I’m looking to collaborate on theme & plugin development.</p>
 <p>⚡ Fun Fact: I don't love coding</p>
+
+## 📊 Github Status
+<img height="25px" src="https://profile-counter.glitch.me/markmemayank/count.svg" alt="Mayank Kumar"/><br>
+<img height="150px" src="https://github-readme-stats.vercel.app/api?username=markmemayank&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"> <img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=markmemayank&theme=chartreuse-dark&border_radius=5)](https://git.io/streak-stats"/>
