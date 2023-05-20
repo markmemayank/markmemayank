@@ -19,6 +19,17 @@ Hey, I’m Mayank. Learner by passion, a Web Developer & Content Writer by profe
 <p>I’m looking to collaborate on theme & plugin development.</p>
 <p>⚡ Fun Fact: I don't love coding</p>
 
+## Events I attended
+
+### List of my attended WordCamps
+1. WordCamp Nagpur 2022 (As Media Partner)
+2. WordCamp Kolkata 2022 (As Volunteer)
+
+### Other than WordCamp I also do attend many tech events:
+1. DevFest New Delhi 2022 (Attendee)
+2. DevFest Noida 2022 (Attendee)
+3. Google Cloud Community Day 2023 (Attendee)
+
 ## 📊 Github Status
 <img height="25px" src="https://profile-counter.glitch.me/markmemayank/count.svg" alt="Mayank Kumar"/><br>
 <img height="150px" src="https://github-readme-stats.vercel.app/api?username=markmemayank&show_icons=true&theme=chartreuse-dark&include_all_commits=true&hide=issues"> <img height="150px" src="https://github-readme-streak-stats.herokuapp.com?user=markmemayank&theme=chartreuse-dark&border_radius=5)](https://git.io/streak-stats"/>
