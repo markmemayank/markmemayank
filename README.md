@@ -28,7 +28,7 @@ Hey, I’m Mayank. Learner by passion, a Web Developer & Content Writer by profe
 ### Other than WordCamp I also do attend many tech events:
 1. DevFest New Delhi 2022 (Attendee)
 2. DevFest Noida 2022 (Attendee)
-3. Google Cloud Community Day 2023 (Attendee)
+3. Google Cloud Community Day (GCCD) 2023 (Attendee)
 
 ## 📊 Github Status
 <img height="25px" src="https://profile-counter.glitch.me/markmemayank/count.svg" alt="Mayank Kumar"/><br>
