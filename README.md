@@ -15,9 +15,9 @@ Hey, I’m Mayank. Learner by passion, a Web Developer & Content Writer by profe
 <p>🌱 Hi, I’m Mayank Kumar.</p>
 <p>💬 I’m a Web Developer.</p>
 <p>📫 How to reach me? <a href="markmemayank@gmail.com">markmemayank@gmail.com</a></p>
-<p>I’m currently learning C++ Programming along with development & graphic design.</p>
-<p>I’m looking to collaborate on theme & plugin development.</p>
-<p>⚡ Fun Fact: I don't love coding</p>
+<p>🔐 I’m currently learning C++ Programming along with development & graphic design.</p>
+<p>👩🏻‍💻 I’m looking to collaborate on theme & plugin development.</p>
+<p>🤣 Fun Fact: I don't love coding</p>
 
 ## Events I attended
 
