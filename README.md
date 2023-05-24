@@ -19,6 +19,11 @@ Hey, I’m Mayank. Learner by passion, a Web Developer & Content Writer by profe
 <p>👩🏻‍💻 I’m looking to collaborate on theme & plugin development.</p>
 <p>🤣 Fun Fact: I don't love coding</p>
 
+## Community Leads
+1. Divi New Delhi (Founding Co-organiser)
+2. WordPress Delhi NCR
+3. CSHUB
+
 ## Events I attended
 
 ### List of my attended WordCamps
