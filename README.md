@@ -20,9 +20,9 @@ Hey, I’m Mayank. Learner by passion, a Web Developer & Content Writer by profe
 <p>🤣 Fun Fact: I don't love coding</p>
 
 ## Community Leads
-1. Divi New Delhi (Founding Co-organiser)
+1. Divi New Delhi (Founding Organiser)
 2. WordPress Delhi NCR
-3. CSHUB
+3. CSHUB (Organiser)
 
 ## Events I attended
 
