@@ -21,7 +21,7 @@ Hey, I’m Mayank. Learner by passion, a Web Developer & Content Writer by profe
 
 ## Community Leads
 1. Divi New Delhi (Founding Organiser)
-2. WordPress Delhi NCR
+2. WordPress Delhi NCR (Event Organiser)
 3. CSHUB (Organiser)
 
 ## Events I attended
