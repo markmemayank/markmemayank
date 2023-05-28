@@ -27,8 +27,8 @@ Hey, I’m Mayank. Learner by passion, a Web Developer & Content Writer by profe
 ## Events I attended
 
 ### List of my attended WordCamps
-1. WordCamp Nagpur 2022 (As Media Partner)
-2. WordCamp Kolkata 2022 (As Volunteer)
+1. WordCamp Nagpur 2022 (Media Partner)
+2. WordCamp Kolkata 2022 (Volunteer)
 
 ### Other than WordCamp I also do attend many tech events:
 1. DevFest New Delhi 2022 (Attendee)
