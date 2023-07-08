@@ -1,6 +1,6 @@
 # Hi there, I am [Mayank](https://markmemayank.com/)&nbsp;&nbsp;&nbsp;<img width="3%" src="https://i.imgur.com/u2WLlB8.gif" />
 
-Hey, I’m Mayank. Learner by passion, a Web Developer & Content Writer by profession. I do like to write & design beautifully. I’m a 20-year-old Tech-Savvy guy living in Delhi, India.
+Hey, I’m Mayank. Learner by passion, a Web Developer & Content Writer by profession, and an Open source contributor at WordPress.org. I do like to write & design beautifully. I’m a 20-year-old Tech-Savvy guy living in Delhi, India.
 
 ## Events I attended
 
