@@ -2,11 +2,6 @@
 
 Hey, I’m Mayank. Learner by passion, a Web Developer & Content Writer by profession. I do like to write & design beautifully. I’m a 20-year-old Tech-Savvy guy living in Delhi, India.
 
-## Community Leads
-1. Divi New Delhi (Founding Organiser)
-2. WordPress Delhi NCR (Event Organiser)
-3. CSHUB (Organiser)
-
 ## Events I attended
 
 ### List of my attended WordCamps
