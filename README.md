@@ -9,7 +9,7 @@ Hey, I’m Mayank. Learner by passion, a Web Developer & Content Writer by profe
 2. WordCamp Kolkata 2022 (Volunteer)
 3. WordCamp Bengaluru 2023 (Speaker)
 
-### Other than WordCamp I also do attend many tech events:
+### Other than WordCamp, I also do attend many tech events:
 1. DevFest New Delhi 2022 (Attendee)
 2. DevFest Noida 2022 (Attendee)
 3. Google Cloud Community Day (GCCD) 2023 (Attendee)
