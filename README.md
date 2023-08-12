@@ -14,3 +14,4 @@ Hey, I’m Mayank. Learner by passion, a Web Developer & Content Writer by profe
 1. DevFest New Delhi 2022 (Attendee)
 2. DevFest Noida 2022 (Attendee)
 3. Google Cloud Community Day (GCCD) 2023 (Attendee)
+4. Electronics Rocks 2023 Delhi (Expo Pass)
