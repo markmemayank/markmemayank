@@ -8,7 +8,6 @@ Hey, I’m Mayank. Learner by passion, a Web Developer & Content Writer by profe
 1. WordCamp Nagpur 2022 (Media Partner)
 2. WordCamp Kolkata 2022 (Volunteer)
 3. WordCamp Bengaluru 2023 (Speaker)
-4. WordCamp Bhopal 2023 (Upcoming)
    
 ### Other than WordCamp, I also do attend many tech events:
 1. DevFest New Delhi 2022 (Attendee)
