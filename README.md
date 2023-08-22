@@ -1,6 +1,8 @@
 # Hi there, I am [Mayank](https://markmemayank.com/)&nbsp;&nbsp;&nbsp;<img width="3%" src="https://i.imgur.com/u2WLlB8.gif" />
 
-Hey, I’m Mayank. Learner by passion, a Web Developer & Content Writer by profession, and an Open source contributor at WordPress.org. I do like to write & design beautifully. I’m a 20-year-old Tech-Savvy guy living in Delhi, India.
+A Computer Science Geek, deeply passionate about WordPress, actively contributing to the community, and believing in the potential of open-source tech to create a better world.
+
+I am expert in Web Design & Development, SEO, Social Media Management, Content writing & Graphic Designing. I helped over 35+ businesses to grow their digital presence.
 
 ## Events I attended
 
