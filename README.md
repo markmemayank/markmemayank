@@ -10,7 +10,7 @@ I am expert in Web Design & Development, SEO, Social Media Management, Content w
 1. WordCamp Nagpur 2022 (Media Partner)
 2. WordCamp Kolkata 2022 (Volunteer)
 3. WordCamp Bengaluru 2023 (Speaker)
-4. WordCamp Bhopal 2023
+4. WordCamp Bhopal 2023 (Photos Team Lead)
    
 ### Other than WordCamp, I also do attend many tech events:
 1. DevFest New Delhi 2022 (Attendee)
