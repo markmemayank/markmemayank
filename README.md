@@ -19,3 +19,4 @@ I am expert in Web Design & Development, SEO, Social Media Management, Content w
 4. Google Cloud Community Day (GCCD) 2023 (Attendee)
 5. Electronics Rocks 2023 Delhi (Expo Pass)
 6. MongoDB Local Delhi NCR 2023 (Attendee)
+7. AWS Public Sector Symposium 2023
