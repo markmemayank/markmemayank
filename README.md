@@ -2,7 +2,7 @@
 
 A Computer Science Geek, deeply passionate about WordPress, actively contributing to the community, and believing in the potential of open-source tech to create a better world.
 
-I am expert in Web Design & Development, SEO, Social Media Management, Content writing & Graphic Designing. I helped over 35+ businesses to grow their digital presence.
+I am an expert in Web Design and development, SEO, Social Media Management, Content writing and graphic designing. I helped over 35+ businesses to grow their digital presence.
 
 ## Events I attended
 
@@ -19,4 +19,4 @@ I am expert in Web Design & Development, SEO, Social Media Management, Content w
 4. Google Cloud Community Day (GCCD) 2023 (Attendee)
 5. Electronics Rocks 2023 Delhi (Expo Pass)
 6. MongoDB Local Delhi NCR 2023 (Attendee)
-7. AWS Public Sector Symposium 2023
+7. AWS Public Sector Symposium 2023 (Attendee - Web Wallah)
