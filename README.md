@@ -14,6 +14,7 @@ I am an expert in Web Design and development, SEO, Social Media Management, Cont
 5. WordCamp Udaipur 2023 (Speaker)
 6. WordCamp Nepal 2024 (Speaker/Photos Table Team Lead)
 7. WordCamp Asia 2024 (Media Partner) (Upcoming on 7-9th March)
+8. WordPress Photo Festival 2024 (Volunteer)
    
 ### Other than WordCamp, I also do attend many tech events:
 1. DevFest New Delhi 2022 (Attendee)
