@@ -28,11 +28,9 @@ I am an expert in Web Design and development, SEO, Social Media Management, Cont
 6. MongoDB Local Delhi NCR 2023 (Attendee)
 7. AWS Public Sector Symposium 2023 (Attendee - [Web Wallah](https://webwallah.in/))
 8. Google Search Central Live 2023, Delhi (Attendee - [Web Wallah](https://webwallah.in/))
-9. Devfest Delhi 2023
-10. Devfest Noida 2023
-11. Indian Affiliate Summit 2023
-12. MongoDB.local Delhi/NCR 2023
-13. AWS Symposium 2023
-14. Google Cloud Community Day 2024
-15. MongoDB.local Delhi/NCR 2024
-16. AWS Empower India 2024
+9. Devfest Delhi 2023 (Attendee - [Web Wallah](https://webwallah.in/))
+10. Devfest Noida 2023 (Attendee - [Web Wallah](https://webwallah.in/))
+11. Indian Affiliate Summit 2023 (Attendee - [Web Wallah](https://webwallah.in/))
+14. Google Cloud Community Day 2024 (Attendee - [Web Wallah](https://webwallah.in/))
+15. MongoDB.local Delhi/NCR 2024 (Attendee - [Web Wallah](https://webwallah.in/))
+16. AWS Empower India 2024 (Attendee - [Web Wallah](https://webwallah.in/))
