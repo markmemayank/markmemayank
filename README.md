@@ -34,3 +34,4 @@ I am an expert in Web Design and development, SEO, Social Media Management, Cont
 14. Google Cloud Community Day 2024 (Attendee)
 15. MongoDB.local Delhi/NCR 2024 (Attendee)
 16. AWS Empower India 2024 (Attendee)
+17. DevFest New Delhi 2024 (Speaker)
