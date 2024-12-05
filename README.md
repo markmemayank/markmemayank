@@ -17,7 +17,7 @@ I am an expert in Web Design and development, SEO, Social Media Management, Cont
 8. WordPress Photo Festival 2024 (Volunteer)
 9. WordCamp Pune 2024 (Attendees)
 10. WordCamp Bengaluru 2024 (Sponsor - InstaWP)
-11. WordCamp Delhi 2024 (Organiser) - Upcoming on 1 Dec
+11. WordCamp Delhi 2024 (Organiser)
    
 ### Other than WordCamp, I also do attend many tech events:
 1. DevFest New Delhi 2022 (Attendee)
