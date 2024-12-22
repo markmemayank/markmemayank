@@ -18,6 +18,9 @@ I am an expert in Web Design and development, SEO, Social Media Management, Cont
 9. WordCamp Pune 2024 (Attendees)
 10. WordCamp Bengaluru 2024 (Sponsor - InstaWP)
 11. WordCamp Delhi 2024 (Organiser)
+12. WordCamp Ahmedabad 2025 (Speaker) - Upcoming
+13. WordCamp Kolhapur 2025 (Speaker) - Upcoming
+14. WordCamp Kolkata 2025 (Speaker) - Upcoming
    
 ### Other than WordCamp, I also do attend many tech events:
 1. DevFest New Delhi 2022 (Attendee)
@@ -35,3 +38,4 @@ I am an expert in Web Design and development, SEO, Social Media Management, Cont
 15. MongoDB.local Delhi/NCR 2024 (Attendee)
 16. AWS Empower India 2024 (Attendee)
 17. DevFest New Delhi 2024 (Speaker)
+18. DevFest Gurugram 2024 (Attendee)
